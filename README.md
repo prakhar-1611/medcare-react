@@ -14,6 +14,8 @@ https://github.com/prakhar-1611/medcare-react
 
 Folder Structure:
 
+## 📁 Folder Structure
+
 medcare-react/
 │
 ├── public/
@@ -39,7 +41,7 @@ medcare-react/
 │   ├── App.jsx
 │   ├── main.jsx
 │   ├── index.css
-│   ├── constants.js
+│   └── constants.js
 │
 ├── package.json
 ├── package-lock.json

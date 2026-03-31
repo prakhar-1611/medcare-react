@@ -15,9 +15,6 @@ https://github.com/prakhar-1611/medcare-react
 Folder Structure:
 
 ## 📁 Folder Structure
-
-## 📁 Folder Structure
-
 ```
 medcare-react/
 │

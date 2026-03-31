@@ -16,6 +16,9 @@ Folder Structure:
 
 ## 📁 Folder Structure
 
+## 📁 Folder Structure
+
+```
 medcare-react/
 │
 ├── public/
@@ -48,3 +51,4 @@ medcare-react/
 ├── vite.config.js
 ├── README.md
 └── .gitignore
+```

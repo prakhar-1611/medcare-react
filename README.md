@@ -49,3 +49,17 @@ medcare-react/
 ├── README.md
 └── .gitignore
 ```
+## 🚀 Features
+- Patient admission and record management
+- Doctor scheduling and availability tracking
+- Appointment slot booking system
+- Billing and invoice generation
+- Payment processing system
+- Analytics dashboard for hospital data
+- Notification system for alerts and updates
+
+## 🛠️ Technologies Used
+- React.js
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Vite (Build Tool)
